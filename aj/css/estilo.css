@@ -1,0 +1,26 @@
+:root {
+    --cor-de-fundo: #000000;
+    --cor-texto: #f0f0f0;
+    --cabecalho-degrade-1: #9a0000;
+    --cabecalho-degrade-2: #45005f;
+    --cor-menu: #02042cd6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    width: 100%;
+    color: var(--cor-texto);
+}
+
+.cabecalho {
+    width: 100%;
+    background-image: linear;
+}
+
+.cabecalho_logo{
+    
+}
